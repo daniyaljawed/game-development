@@ -1,6 +1,6 @@
 # game-development
 ## Daniyal jawed 63155
-## fahad Khan
-## syed hadi 
-## saif ali khan 
-## talha aziz 
+## fahad Khan 63457
+## syed hadi 63452
+## saif ali khan 63342
+## talha aziz 63205
