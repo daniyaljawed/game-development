@@ -45,7 +45,8 @@ This game is similar to the Mario Kart series where the player has to reach the 
 3- House Flipper: House flipper is a simulation game and it is a single-player game. In this game, the player has to fix up properties in order to create a profit. Task performed by the player includes painting, laying down tile, cleaning, installations and demolition. Player can easily fix, buy and sell their houses.
 
 
-Game Ideas: Saif Ali Khan
+Game Ideas: 
+Saif Ali Khan
 1- Puzzle Game 
 this is a puzzle solving game it include conceptual chalanges . this is single plyer game .good for mental health.Improve your problem solving skills and have fun by playing these puzzle games.
 
