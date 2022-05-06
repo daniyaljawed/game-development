@@ -43,3 +43,14 @@ Just Shapes & Beats is an action rhythm video game. In this game, each player ha
 This game is similar to the Mario Kart series where the player has to reach the finish point in first. This is a type of car racing game in which player has to face different-different difficulties to reach the finish point.
 
 3- House Flipper: House flipper is a simulation game and it is a single-player game. In this game, the player has to fix up properties in order to create a profit. Task performed by the player includes painting, laying down tile, cleaning, installations and demolition. Player can easily fix, buy and sell their houses.
+
+
+Game Ideas: Saif Ali Khan
+1- Puzzle Game 
+this is a puzzle solving game it include conceptual chalanges . this is single plyer game .good for mental health.Improve your problem solving skills and have fun by playing these puzzle games.
+
+2-Fighter jet 
+this war type game in which plyer control over . they can be plye . fire and speed control .The game makes use of a tech tree, meaning that you start out with older, more basic fighter jets and work your way up to more advanced models, giving a real sense of progression throughout the game.
+
+3-Driver
+this is a single person game in which over all control on car just like in real life . this game will teach you how to drive , park , control in traffic and follow traffic rules . this will help more when a person want to learn how to drive .
