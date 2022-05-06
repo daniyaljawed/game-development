@@ -1,3 +1,18 @@
+GAME IDEAS
+MUHAMMAD FAHAD KHAN 63457
+1. Detective games
+Detective games where the player has to solve a murder mystery
+or find out the culprit of a crime can become really addictive.
+
+2. Crossy road
+Add various characters and exciting features to entice 
+audiences. In such an app, a user has to select a character 
+and then make it cross a busy road with many hurdles.
+
+3. AdventureQuest
+Make the story of the game as the center of it. Add different 
+technical functionalities and features to deliver a great experience.
+
 
 GAME IDEAS
 DANIYAL JAWED
