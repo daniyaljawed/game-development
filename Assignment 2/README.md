@@ -55,3 +55,15 @@ this war type game in which plyer control over . they can be plye . fire and spe
 
 3-Driver
 this is a single person game in which over all control on car just like in real life . this game will teach you how to drive , park , control in traffic and follow traffic rules . this will help more when a person want to learn how to drive .
+
+Game ideas: 
+Muhammad Talha Aziz:
+
+1. Critical operations
+Critical Ops games are the best way to improve test and tactical skills. You can give the players an option to be a part of a good or bad team, which then fights for the victory.
+
+2. Sports league based
+Players would love to play sports leagues virtually. Select a sport and begin developing the game.
+
+3.Detective games
+Detective games where the player has to solve a murder mystery or find out the culprit of a crime can become really addictive.
