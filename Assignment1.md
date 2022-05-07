@@ -1,4 +1,5 @@
-Muhammad Fahad Khan:
+# Muhammad Fahad Khan:
+
 When I develop a game in future so it will be a game Like
 CS-GO, because I'm aslo a player of CS-GO It's an amazing
 game that I have ever seen in my life. The game is of 
@@ -9,7 +10,8 @@ hostages shown on the map. It’s a multiplayer shooter game.
 CS-GO is still lies in Top 5 games in the world. CG-GO has
 a separate fan base.
 
-Syed Hadi Raza :
+# Syed Hadi Raza :
+
 If i have time in my life and get the opportunity 
 to develop the game in my life so i would like to
 develop the game like PUB-G , Counter Strike because many people around
@@ -23,7 +25,9 @@ they can also connect with other unknown people so,
 There would be  new experience to interact and know 
 about other people around the world.
 
-Daniyal jawed:
+
+# Daniyal jawed:
+
 If i have time in my life and get the opportunity 
 to develop the game in my life so i would like to
 develop the game like players unknown battleground
@@ -37,7 +41,8 @@ There would be  new experience to interact and know
 about other people around the world.
 
 
-Muhammad Talha Aziz: 
+# Muhammad Talha Aziz: 
+
 Whenever i have time to develop any game in my life i 
 love do built any fighting game like Pub-G, counter 
 strike and like street fighter. I like these type of games
@@ -47,7 +52,8 @@ Our new generation also taking interest to buit there
 Gaming skills from Dot 2, or IGI 3. So i personally think
 I'm enjoying this game development process.
 
-Saif Ali Khan: 
+# Saif Ali Khan: 
+
  I want  built  strategy and adventure game like consist 
 of quiz game and having different goal. Character student, 
 achievement degree and different level. I like these type of 
